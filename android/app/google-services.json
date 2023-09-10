@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786964073400",
+    "project_id": "bookdoc-205c5",
+    "storage_bucket": "bookdoc-205c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786964073400:android:42ad07be7c85891e6fdd4d",
+        "android_client_info": {
+          "package_name": "com.appetizers.bookdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786964073400-e7nfe8hq711gfl9evt67flh213q9ei5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPOapZZL0zssFHGZYK32g6zbnVjuaNxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786964073400-e7nfe8hq711gfl9evt67flh213q9ei5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
